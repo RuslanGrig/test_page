@@ -1,2 +1,2 @@
 I stydy in Netology
-![studies](0)
+![studies](https://github.com/RuslanGrig/test_page/blob/main/1.jpg)
